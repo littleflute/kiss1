@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Detroit Rock City.mp3";		
+f[2]	= "02 King of the Night Time World.mp3";		
+f[3]	= "03 Do You Love Me.mp3";		
+f[4]	= "04 Shout It Out Loud.mp3";		
+f[5]	= "05 God of Thunder.mp3";		
+f[6]	= "06 Love Gun.mp3";		
+f[7]	= "07 Black Diamond.mp3";		
+f[8]	= "08 Great Expectations.mp3";		
+f[9]	= "09 I Was Made for Lovin' You.mp3";		
+f[10]	= "10 Rock and Roll All Nite.mp3";		
