@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Deuce.mp3";		
+f[2]	= "02 Strutter.mp3";		
+f[3]	= "03 Let Me Go Rock N Roll.mp3";		
+f[4]	= "04 Lick It Up.mp3";		
+f[5]	= "05 Calling Dr. Love.mp3";		
+f[6]	= "06 Psycho Circus.mp3";		
+f[7]	= "07 Beth.mp3";		
+f[8]	= "08 Forever.mp3";		
+f[9]	= "09 Goin' Blind.mp3";		
+f[10]	= "10 Sure Know Something.mp3";		
+f[11]	= "11 Shandi.mp3";		
